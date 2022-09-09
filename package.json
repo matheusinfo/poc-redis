@@ -1,0 +1,14 @@
+{
+  "name": "poc-redis",
+  "version": "1.0.0",
+  "description": "Simple POC for redis",
+  "main": "index.js",
+  "type": "module",
+  "author": "@matheusinfo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "redis": "^4.3.1"
+  }
+}
